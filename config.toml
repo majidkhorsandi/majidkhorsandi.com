@@ -1,11 +1,11 @@
-baseurl = "https://example.com/"
+baseurl = "http://majidkhorsandi.com/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Majid Khorsandi"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hugo-sustain"
+theme = "hugo-theme-nix"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -15,16 +15,38 @@ theme = "hugo-sustain"
   author = "Chris Turner"
   description = "Describe your website"
 
+  About = "Hello! My name is Majid."
+  ProfilePicture = "img/profile.jpg"
+  Name = "Majid Khorsandi"
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
+  Github        = "majidkhorsandi"
+  Email         = "majid.cs@gmail.com"
   Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
+  LinkedIn      = "majidkhorsandi"
+  Stackoverflow = "MajiK"
+
+  GnuPGFingerprint = "your_gpg_fingerprint"
+  StackExchangeID = "your_stackexchange_id"
+  GithubID = "your_github"
+  GitlabId = "your_gitlab"
+  BitbucketID = "your_bitbucket_id"
+  CodepenID = "your_codepen"
+  GoogleplusID = "your_googleplus"
+  FacebookID = "your_facebook"
+  InstagramID = "your_instagram"
+  TelegramID = "your_telegram"
+  HeaderUsername = "username"
+  HeaderHostname = "hostname"
+  Phone = "+1-201-555-0123"
+  Mobile = "+1-201-555-0123"
+  GoogleAnalytics = "your_google_analytics_id"
+  SlackURL = "https://join.slack.com/..."
+  PayPalMeID = "https://www.paypal.me/..."
+  XingURL = "https://www.xing.com/profile/..."
 
 ## Main Menu
 [[menu.main]]
