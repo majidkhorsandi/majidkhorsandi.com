@@ -23,15 +23,14 @@ theme = "hugo-theme-nix"
   custom_js  = []
 
 [params.social]
-  Github        = "majidkhorsandi"
   Email         = "majid.cs@gmail.com"
-  Twitter       = "username"
-  LinkedIn      = "majidkhorsandi"
-  Stackoverflow = "MajiK"
+  TwitterID       = "username"
+  LinkedInID      = "majidkhorsandi"
+  StackoverflowID = "2170195/majik"
 
   GnuPGFingerprint = "your_gpg_fingerprint"
   StackExchangeID = "your_stackexchange_id"
-  GithubID = "your_github"
+  GithubID = "majidkhorsandi"
   GitlabId = "your_gitlab"
   BitbucketID = "your_bitbucket_id"
   CodepenID = "your_codepen"
