@@ -15,8 +15,7 @@ theme = "hugo-theme-nix"
   author = "Chris Turner"
   description = "Describe your website"
 
-  About = "Hello! My name is Majid. I am a software engineer with a passion for building high-quality software. Currently, I work as a backend engineer in Spotify in Stockholm.
-Outside of work, I spend most of my time with my beautiful wife Ati and my lovely daughter Aylin. Rest of my time is spent on reading books, exercising and traveling."
+  About = "Hello! I am Majid, a software engineer with a passion for building high-quality software. Currently, I work as a backend engineer in Spotify in Stockholm. Outside of work, I spend most of my time with my beautiful wife Ati and my lovely daughter Aylin. Rest of my time is spent on reading books, exercising and traveling."
   ProfilePicture = "img/profile.jpg"
   Name = "Majid Khorsandi"
   # Custom assets can be linked with their paths relative to static/
